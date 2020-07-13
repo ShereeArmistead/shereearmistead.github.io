@@ -1,0 +1,18 @@
+{
+  "name": "Sheree Armistead",
+  "short_name": "Sheree Armistead",
+  "lang": "en-us",
+  "theme_color": "#1ba6a6",
+  "background_color": "#1ba6a6",
+  "icons": [{
+    "src": "/images/icon_hu74406c617efa6894ba0444be97a94aa1_8218_192x192_fill_lanczos_center_2.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/images/icon_hu74406c617efa6894ba0444be97a94aa1_8218_512x512_fill_lanczos_center_2.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sheree Armistead</title>
+    <link>https://shereearmistead.github.io/</link>
+      <atom:link href="https://shereearmistead.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sheree Armistead</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 11 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shereearmistead.github.io/images/icon_hu74406c617efa6894ba0444be97a94aa1_8218_512x512_fill_lanczos_center_2.png</url>
+      <title>Sheree Armistead</title>
+      <link>https://shereearmistead.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Virtual Seminar Series - IGCP 648 Supercontinent Cycles and Global Geodynamics</title>
+      <link>https://shereearmistead.github.io/post/igcp648post/</link>
+      <pubDate>Sat, 11 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://shereearmistead.github.io/post/igcp648post/</guid>
+      <description>&lt;p&gt;The IGCP 648 (Supercontinent Cycles and Global Geodynamics) is a collaborative project involving researchers from all around the world. I&amp;rsquo;ve been fortunate to be involved in the IGCP 648 group over the past few years and they have supported me to attend conferences and field symposia. In response to the global COVID-19 crisis and the reduced connectivity among colleagues, I have organised a weekly Virtual Seminar Series hosted on zoom for the tectonics/geodynamics community. We hear from a diverse range of scientists researching many aspects relating to plate tectonics and geodynamics. Importantly, we are able to share science with a whole range of people from different parts of the world, many of who would not normally be able to attend in person conferences and seminars.&lt;/p&gt;
+&lt;p&gt;Check out the 
+&lt;a href=&#34;http://geodynamics.curtin.edu.au/igcp-648-virtual-seminar-series&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IGCP 648 Virtual Seminar Series website&lt;/a&gt; for more information and to see past seminar recordings:&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://shereearmistead.github.io/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>https://shereearmistead.github.io/privacy/</guid>
+      <description>&lt;p&gt;Add your privacy policy here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Terms</title>
+      <link>https://shereearmistead.github.io/terms/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>https://shereearmistead.github.io/terms/</guid>
+      <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

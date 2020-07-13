@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News | Sheree Armistead</title>
+    <link>https://shereearmistead.github.io/post/</link>
+      <atom:link href="https://shereearmistead.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>News</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 11 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shereearmistead.github.io/images/icon_hu74406c617efa6894ba0444be97a94aa1_8218_512x512_fill_lanczos_center_2.png</url>
+      <title>News</title>
+      <link>https://shereearmistead.github.io/post/</link>
+    </image>
+    
+    <item>
+      <title>Virtual Seminar Series - IGCP 648 Supercontinent Cycles and Global Geodynamics</title>
+      <link>https://shereearmistead.github.io/post/igcp648post/</link>
+      <pubDate>Sat, 11 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://shereearmistead.github.io/post/igcp648post/</guid>
+      <description>&lt;p&gt;The IGCP 648 (Supercontinent Cycles and Global Geodynamics) is a collaborative project involving researchers from all around the world. I&amp;rsquo;ve been fortunate to be involved in the IGCP 648 group over the past few years and they have supported me to attend conferences and field symposia. In response to the global COVID-19 crisis and the reduced connectivity among colleagues, I have organised a weekly Virtual Seminar Series hosted on zoom for the tectonics/geodynamics community. We hear from a diverse range of scientists researching many aspects relating to plate tectonics and geodynamics. Importantly, we are able to share science with a whole range of people from different parts of the world, many of who would not normally be able to attend in person conferences and seminars.&lt;/p&gt;
+&lt;p&gt;Check out the 
+&lt;a href=&#34;http://geodynamics.curtin.edu.au/igcp-648-virtual-seminar-series&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IGCP 648 Virtual Seminar Series website&lt;/a&gt; for more information and to see past seminar recordings:&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
