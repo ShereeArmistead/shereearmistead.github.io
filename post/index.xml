@@ -5,12 +5,28 @@
     <link>https://shereearmistead.github.io/post/</link>
       <atom:link href="https://shereearmistead.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 11 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 15 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://shereearmistead.github.io/images/icon_hu74406c617efa6894ba0444be97a94aa1_8218_512x512_fill_lanczos_center_2.png</url>
+      <url>https://shereearmistead.github.io/images/icon_hu07c7f6abe5f40b880a2343300b756d07_15024_512x512_fill_lanczos_center_2.png</url>
       <title>News</title>
       <link>https://shereearmistead.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>New Preprint - Age and geochemistry of the Boucaut Volcanics</title>
+      <link>https://shereearmistead.github.io/post/boucautpreprint/</link>
+      <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://shereearmistead.github.io/post/boucautpreprint/</guid>
+      <description>&lt;p&gt;This work provides important age constraints on stratigraphy in the Adelaide Rift Complex within the Adelaide Superbasin. Check out the 
+&lt;a href=&#34;https://eartharxiv.org/mgpf4/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EarthArXiv Preprint here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;
+The Adelaide Rift Complex in South Australia records the break-up of Rodinia at a time of great climatic and biological evolution. The Boucaut Volcanics within the Neoproterozoic Adelaide Rift Complex lie at the base of the Burra Group, marking the boundary between the Burra Group and underlying Callanna Group. Despite their significance as one of the few volcanic units within the rift complex, there has been no robust age determination published for the Boucaut Volcanics. We use U–Pb zircon LA-ICP-MS data to determine an age of 788 ± 6 Ma for the eruption of the bimodal Boucaut Volcanics. This has important implications for constraining the timing of stratigraphy within the Adelaide Rift Complex. This also has far reaching implications for plate tectonic reconstructions of Australia and Laurentia, and for correlating global isotope anomalies for the Neoproterozoic.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
+Armistead, Sheree E., Alan Collins, Solomon Buckman, and Rachel Atkins. 2020. “Age and Geochemistry of the Boucaut Volcanics in the Neoproterozoic Adelaide Rift Complex, South Australia.” EarthArXiv. July 15. doi:10.31223/osf.io/mgpf4.&lt;/p&gt;
+&lt;img style=&#34;float: centre;&#34; src=&#34;https://shereearmistead.github.io/img/Boucaut.jpg&#34; alt=&#34;drawing&#34; width=&#34;500&#34;/&gt;
+&lt;p&gt;&lt;em&gt;Figure 1: GPlates tectonic reconstructions of the different Australia-Laurentia models at 788 Ma (the crystallisation age of the Boucaut Volcanics), made using the models in Merdith et al. (2017b). South Australia is fixed in its present-day position with all other blocks rotated relative to it at 788 Ma. SWEAT reconstruction based on Dalziel (1991);Hoffman (1991); Moores (1991). AUSWUS reconstruction based on Karlstrom et al. (1999). AUSMEX reconstruction based on Wingate et al. (2002). Missing Link reconstruction based on Li et al. (1995). NA = North Australia, SA = South Australia.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Virtual Seminar Series - IGCP 648 Supercontinent Cycles and Global Geodynamics</title>
