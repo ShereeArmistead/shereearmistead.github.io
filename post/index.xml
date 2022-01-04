@@ -5,13 +5,28 @@
     <link>https://shereearmistead.github.io/post/</link>
       <atom:link href="https://shereearmistead.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 05 May 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 10 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shereearmistead.github.io/images/icon_hu07c7f6abe5f40b880a2343300b756d07_15024_512x512_fill_lanczos_center_2.png</url>
       <title>News</title>
       <link>https://shereearmistead.github.io/post/</link>
     </image>
     
+    <item>
+      <title>New Preprint - PbIso: an R package and web app for calculating and plotting Pb isotope data</title>
+      <link>https://shereearmistead.github.io/post/pbisoapppreprint/</link>
+      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://shereearmistead.github.io/post/pbisoapppreprint/</guid>
+      <description>&lt;p&gt;This manuscript outlines a new R package and shiny web app for calculating and plotting Pb isotope data. Check out the 
+&lt;a href=&#34;https://eartharxiv.org/repository/view/2841/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EarthArXiv Preprint here&lt;/a&gt; and the 
+&lt;a href=&#34;https://shereearmistead.shinyapps.io/PbIsoApp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shiny web app here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;
+The package PbIso is a free and open R toolbox for commonly used calculations and plots of Pb-Pb isotope data. In this paper, we review Pb isotope systematics and the calculations that are commonly used, such as model age, model source 𝜇 (238U/204Pb), time-integrated 𝜅 (232Th/238U), and initial Pb isotope ratios. These complicated equations are implemented into simple R functions in the package PbIso. In addition, functions are provided for generating model curves, geochron lines, and time-dependent slopes. This allows users to apply calculations to their data in a straightforward way, while providing transparency and flexibility of the calculations used. We have implemented some basic features of the PbIso package into an online shiny application (&lt;a href=&#34;https://shereearmistead.shinyapps.io/PbIsoApp/),&#34;&gt;https://shereearmistead.shinyapps.io/PbIsoApp/),&lt;/a&gt;
+which makes it easy for users without any R experience to use these calculations with their own data and to generate plots.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
+Armistead, S.E., Eglington, B.M. and Pehrsson, S.J., 2021. “PbIso: an R package and web app for calculating and plotting Pb isotope data.” EarthArXiv. Nov 10. doi:10.31223/X56G84&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>New Preprint - Age and geochemistry of the Boucaut Volcanics</title>
