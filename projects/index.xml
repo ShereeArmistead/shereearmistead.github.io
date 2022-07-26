@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Sheree Armistead</title>
+    <link>/projects/</link>
+      <atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 15 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu07c7f6abe5f40b880a2343300b756d07_15024_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>/projects/</link>
+    </image>
+    
+    <item>
+      <title>GA UTAS project (private)</title>
+      <link>/projects/gautas-private/</link>
+      <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/projects/gautas-private/</guid>
+      <description>&lt;p&gt;Test password protect content page&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
