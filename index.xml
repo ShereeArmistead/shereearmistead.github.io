@@ -2,27 +2,468 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sheree Armistead</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://shereearmistead.github.io/</link>
+      <atom:link href="https://shereearmistead.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Sheree Armistead</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 10 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 06 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu07c7f6abe5f40b880a2343300b756d07_15024_512x512_fill_lanczos_center_3.png</url>
+      <url>https://shereearmistead.github.io/images/icon_hu07c7f6abe5f40b880a2343300b756d07_15024_512x512_fill_lanczos_center_2.png</url>
       <title>Sheree Armistead</title>
-      <link>/</link>
+      <link>https://shereearmistead.github.io/</link>
     </image>
     
     <item>
+      <title>Temporal Controls on the metallogenic evolution of Western Tasmania (private)</title>
+      <link>https://shereearmistead.github.io/projects/gautas-private/</link>
+      <pubDate>Mon, 06 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://shereearmistead.github.io/projects/gautas-private/</guid>
+      <description>&lt;!--- make updates to this file. Knit to PDF for progress reports, knit to .md and then copy/paste content into github/academic-kickstart-master/content/projects/GAUTAS-private. Don&#39;t forget to password protect before pushing to github ---&gt;
+&lt;h2 id=&#34;project-overview&#34;&gt;Project overview&lt;/h2&gt;
+&lt;p&gt;The exact timing of mineralisation and ore deposits formation are
+difficult to constrain accurately, as these deposits tend to be affected
+by multiple episodes of deformation and crystallisation. New techniques
+currently being developed now make the dating of at least some of these
+deposits possible. This project will use these techniques to constrain
+the timing of mineral growth some of the most problematic deposit in
+Tasmania, eastern and northern Australia to better characterise existing
+deposit and help with exploration for new ore resources.&lt;/p&gt;
+&lt;h2 id=&#34;project-updates&#34;&gt;Project updates&lt;/h2&gt;
+&lt;table&gt;
+&lt;colgroup&gt;
+&lt;col style=&#34;width: 9%&#34; /&gt;
+&lt;col style=&#34;width: 90%&#34; /&gt;
+&lt;/colgroup&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th style=&#34;text-align: left;&#34;&gt;Date&lt;/th&gt;
+&lt;th style=&#34;text-align: left;&#34;&gt;Activity&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;21/07/2022&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Core sampling at MRT for Beaconsfield
+samples. Five samples selected with high As and/or Au XRF
+measurements&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;4/07/2022&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;GA/UTAS partner meeting&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;4/07/2022&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;PTS blocks for western Tas samples
+requested from MRT&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;6/06/2022&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Sheree Armistead begins postdoc working at
+50% FTE on temporal controls project&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;1/06/2022&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;GA/UTAS partner meeting&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;geochronology-targets&#34;&gt;Geochronology targets&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Interview River
+&lt;ul&gt;
+&lt;li&gt;Ideally collect further Pb isotope analyses, as only one exists
+on this deposit.&lt;/li&gt;
+&lt;li&gt;Check UTAS and MRT sample inventories to see if samples are
+available for the Strickland Deposit, which has a very similar
+Mesoproterozoic Pb isotope model age to Interview River.&lt;/li&gt;
+&lt;li&gt;Collect a zircon U-Pb age for the Interview granite (double
+check that one doesn’t exist)&lt;/li&gt;
+&lt;li&gt;Date minerals such as monazite to constrain age of
+mineralisation&lt;/li&gt;
+&lt;li&gt;If the monazite dating confirms a Mesoproterozoic age then this
+is a major finding for Tasmania. A manuscript on this would then
+require a thorough review of the geology and tectonic evolution
+of Tasmania.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Darwin South
+&lt;ul&gt;
+&lt;li&gt;This is a deposit on Mount Darwin south of Queenstown. There has
+been phosphates identified, small but datable.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Henty
+&lt;ul&gt;
+&lt;li&gt;Good communication with Henty Gold Mine who plan on sending us
+more samples to date. Access to further samples if required
+should be straightforward.&lt;/li&gt;
+&lt;li&gt;Phosphates have been identified. This may require a bit more
+work, but should be doable.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Savage River
+&lt;ul&gt;
+&lt;li&gt;Monazite date exists (~500 Ma), however many interpret this as
+Devonian. Need further age constraints.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Mt Lyell
+&lt;ul&gt;
+&lt;li&gt;Very complicated paragenesis, so dating will be challenging&lt;/li&gt;
+&lt;li&gt;There are phosphates around, and there are some moly ages
+around - ~500 Ma and 492 Ma. The question is if there are
+multiple pulses of mineralisation. This may mean getting
+additional samples, either by visiting the mine or raiding the
+UTas collection (there should be material David Huston and Ollie
+Raymond collected). This could require the most effort.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;map-of-samples-collected-for-amics&#34;&gt;Map of samples collected for AMICS&lt;/h2&gt;
+&lt;p&gt;&lt;img style=&#34;float: centre;&#34; src=&#34;map-1.png&#34; alt=&#34;drawing&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sample-summary&#34;&gt;Sample summary&lt;/h2&gt;
+&lt;table&gt;
+&lt;colgroup&gt;
+&lt;col style=&#34;width: 8%&#34; /&gt;
+&lt;col style=&#34;width: 24%&#34; /&gt;
+&lt;col style=&#34;width: 8%&#34; /&gt;
+&lt;col style=&#34;width: 7%&#34; /&gt;
+&lt;col style=&#34;width: 27%&#34; /&gt;
+&lt;col style=&#34;width: 11%&#34; /&gt;
+&lt;col style=&#34;width: 13%&#34; /&gt;
+&lt;/colgroup&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th style=&#34;text-align: left;&#34;&gt;Sample.ID&lt;/th&gt;
+&lt;th style=&#34;text-align: left;&#34;&gt;Location&lt;/th&gt;
+&lt;th style=&#34;text-align: right;&#34;&gt;Lat&lt;/th&gt;
+&lt;th style=&#34;text-align: right;&#34;&gt;Long&lt;/th&gt;
+&lt;th style=&#34;text-align: left;&#34;&gt;Deposit.name&lt;/th&gt;
+&lt;th style=&#34;text-align: left;&#34;&gt;SEM.check&lt;/th&gt;
+&lt;th style=&#34;text-align: left;&#34;&gt;Sample.selected&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;C111912B&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Mt Lyell mine&lt;/td&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;-42.06278&lt;/td&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;145.5804&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Mt Lyell (Magnetite apatite)&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Done&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;YES&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;C111913A&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Mt Lyell mine&lt;/td&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;-42.06278&lt;/td&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;145.5804&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Mt Lyell (Magnetite apatite)&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;C111913B&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Mt Lyell mine&lt;/td&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;-42.06278&lt;/td&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;145.5804&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Mt Lyell (Magnetite apatite)&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Done&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;STANDBY?&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;C111913C&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Mt Lyell mine&lt;/td&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;-42.06278&lt;/td&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;145.5804&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Mt Lyell (Magnetite apatite)&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;G403884&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;South Darwin Pr&lt;/td&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;-42.27707&lt;/td&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;145.5802&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;South Darwin (magnetite apatite)&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;G403886&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;South Darwin Pr&lt;/td&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;-42.27705&lt;/td&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;145.5800&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;South Darwin (magnetite apatite)&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Done&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;YES&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;C108156&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Beaconsfield mine&lt;/td&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;-41.20021&lt;/td&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;146.8092&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Beaconsfield&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;DONE&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;C108158&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Beaconsfield mine&lt;/td&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;-41.20021&lt;/td&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;146.8092&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Beaconsfield&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;C108161&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Beaconsfield mine&lt;/td&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;-41.20021&lt;/td&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;146.8092&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Beaconsfield&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;C108869&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Savage River mine&lt;/td&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;-41.51204&lt;/td&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;145.1783&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Savage River&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Done&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;YES&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;C108877&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Savage River mine&lt;/td&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;-41.51208&lt;/td&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;145.1787&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Savage River&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;C108944&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Savage River mine&lt;/td&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;-41.46338&lt;/td&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;145.2099&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Savage River&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;C109157&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Savage River mine&lt;/td&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;-41.48168&lt;/td&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;145.2008&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Savage River&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;C113502a&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Trafalgar mine&lt;/td&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;-41.39726&lt;/td&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;148.0551&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Trafalgar&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;READY&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;C113503&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Trafalgar mine&lt;/td&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;-41.39726&lt;/td&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;148.0551&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Trafalgar&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;READY, backup&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;C113504&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Trafalgar mine&lt;/td&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;-41.39726&lt;/td&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;148.0551&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Trafalgar&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;C113504&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Trafalgar mine&lt;/td&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;-41.39726&lt;/td&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;148.0551&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Trafalgar&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;C113505&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Trafalgar mine&lt;/td&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;-41.39726&lt;/td&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;148.0551&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Trafalgar&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;C113505&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Trafalgar mine&lt;/td&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;-41.39726&lt;/td&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;148.0551&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Trafalgar&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;C113506&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Cethana&lt;/td&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;-41.49578&lt;/td&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;146.0962&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Dolcoath&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;READY&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;C113514&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Cethana&lt;/td&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;-41.49578&lt;/td&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;146.0962&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Dolcoath&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;C113509&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Henty mine&lt;/td&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;-41.88403&lt;/td&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;145.5502&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Henty&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;large rutiles&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;C113509&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Henty mine&lt;/td&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;-41.88403&lt;/td&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;145.5502&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Henty&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;C113510&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Henty mine&lt;/td&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;-41.88403&lt;/td&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;145.5502&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Henty&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;C113510&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Henty mine&lt;/td&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;-41.88403&lt;/td&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;145.5502&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Henty&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;READY, backup&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;C113511&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Henty mine&lt;/td&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;-41.88403&lt;/td&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;145.5502&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Henty&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;READY&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;C113512&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Henty mine&lt;/td&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;-41.88403&lt;/td&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;145.5502&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Henty&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;C113512&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Henty mine&lt;/td&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;-41.88403&lt;/td&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;145.5502&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Henty&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;C113513&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Henty mine&lt;/td&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;-41.88403&lt;/td&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;145.5502&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Henty&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;C108156-1&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Beaconsfield mine&lt;/td&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;-41.20021&lt;/td&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;146.8092&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Beaconsfield&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;C108156-2&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Beaconsfield mine&lt;/td&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;-41.20021&lt;/td&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;146.8092&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Beaconsfield&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;C108156-3&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Beaconsfield mine&lt;/td&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;-41.20021&lt;/td&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;146.8092&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Beaconsfield&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;C108544&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Interview River Silver Reward&lt;/td&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;-41.56233&lt;/td&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;144.9803&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;Interview River Silver Reward&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;G403881&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;South Darwin Pr&lt;/td&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;-42.27714&lt;/td&gt;
+&lt;td style=&#34;text-align: right;&#34;&gt;145.5811&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;South Darwin Pr&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align: left;&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
       <title>New Preprint - PbIso: an R package and web app for calculating and plotting Pb isotope data</title>
-      <link>/post/pbisoapppreprint/</link>
+      <link>https://shereearmistead.github.io/post/pbisoapppreprint/</link>
       <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>/post/pbisoapppreprint/</guid>
+      <guid>https://shereearmistead.github.io/post/pbisoapppreprint/</guid>
       <description>&lt;p&gt;This manuscript outlines a new R package and shiny web app for calculating and plotting Pb isotope data. Check out the 
 &lt;a href=&#34;https://eartharxiv.org/repository/view/2841/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EarthArXiv Preprint here&lt;/a&gt; and the 
 &lt;a href=&#34;https://shereearmistead.shinyapps.io/PbIsoApp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shiny web app here&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;
-The package PbIso is a free and open R toolbox for commonly used calculations and plots of Pb-Pb isotope data. In this paper, we review Pb isotope systematics and the calculations that are commonly used, such as model age, model source 𝜇 (238U/204Pb), time-integrated 𝜅 (232Th/238U), and initial Pb isotope ratios. These complicated equations are implemented into simple R functions in the package PbIso. In addition, functions are provided for generating model curves, geochron lines, and time-dependent slopes. This allows users to apply calculations to their data in a straightforward way, while providing transparency and flexibility of the calculations used. We have implemented some basic features of the PbIso package into an online shiny application (
-&lt;a href=&#34;https://shereearmistead.shinyapps.io/PbIsoApp/%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://shereearmistead.shinyapps.io/PbIsoApp/)&lt;/a&gt;,
+The package PbIso is a free and open R toolbox for commonly used calculations and plots of Pb-Pb isotope data. In this paper, we review Pb isotope systematics and the calculations that are commonly used, such as model age, model source 𝜇 (238U/204Pb), time-integrated 𝜅 (232Th/238U), and initial Pb isotope ratios. These complicated equations are implemented into simple R functions in the package PbIso. In addition, functions are provided for generating model curves, geochron lines, and time-dependent slopes. This allows users to apply calculations to their data in a straightforward way, while providing transparency and flexibility of the calculations used. We have implemented some basic features of the PbIso package into an online shiny application (&lt;a href=&#34;https://shereearmistead.shinyapps.io/PbIsoApp/),&#34;&gt;https://shereearmistead.shinyapps.io/PbIsoApp/),&lt;/a&gt;
 which makes it easy for users without any R experience to use these calculations with their own data and to generate plots.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
 Armistead, S.E., Eglington, B.M. and Pehrsson, S.J., 2021. “PbIso: an R package and web app for calculating and plotting Pb isotope data.” EarthArXiv. Nov 10. doi:10.31223/X56G84&lt;/p&gt;
@@ -30,35 +471,26 @@ Armistead, S.E., Eglington, B.M. and Pehrsson, S.J., 2021. “PbIso: an R packag
     </item>
     
     <item>
-      <title>GA UTAS project (private)</title>
-      <link>/projects/gautas-private/</link>
-      <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/projects/gautas-private/</guid>
-      <description>&lt;p&gt;Test password protect content page&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>New Preprint - Age and geochemistry of the Boucaut Volcanics</title>
-      <link>/post/boucautpreprint/</link>
+      <link>https://shereearmistead.github.io/post/boucautpreprint/</link>
       <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/post/boucautpreprint/</guid>
+      <guid>https://shereearmistead.github.io/post/boucautpreprint/</guid>
       <description>&lt;p&gt;This work provides important age constraints on stratigraphy in the Adelaide Rift Complex within the Adelaide Superbasin. Check out the 
 &lt;a href=&#34;https://eartharxiv.org/mgpf4/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EarthArXiv Preprint here&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;
 The Adelaide Rift Complex in South Australia records the break-up of Rodinia at a time of great climatic and biological evolution. The Boucaut Volcanics within the Neoproterozoic Adelaide Rift Complex lie at the base of the Burra Group, marking the boundary between the Burra Group and underlying Callanna Group. Despite their significance as one of the few volcanic units within the rift complex, there has been no robust age determination published for the Boucaut Volcanics. We use U–Pb zircon LA-ICP-MS data to determine an age of 788 ± 6 Ma for the eruption of the bimodal Boucaut Volcanics. This has important implications for constraining the timing of stratigraphy within the Adelaide Rift Complex. This also has far reaching implications for plate tectonic reconstructions of Australia and Laurentia, and for correlating global isotope anomalies for the Neoproterozoic.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
 Armistead, Sheree E., Alan Collins, Solomon Buckman, and Rachel Atkins. 2020. “Age and Geochemistry of the Boucaut Volcanics in the Neoproterozoic Adelaide Rift Complex, South Australia.” EarthArXiv. July 15. doi:10.31223/osf.io/mgpf4.&lt;/p&gt;
-&lt;img style=&#34;float: centre;&#34; src=&#34;/img/Boucaut.jpg&#34; alt=&#34;drawing&#34; width=&#34;500&#34;/&gt;
+&lt;img style=&#34;float: centre;&#34; src=&#34;https://shereearmistead.github.io/img/Boucaut.jpg&#34; alt=&#34;drawing&#34; width=&#34;500&#34;/&gt;
 &lt;p&gt;&lt;em&gt;Figure 1: GPlates tectonic reconstructions of the different Australia-Laurentia models at 788 Ma (the crystallisation age of the Boucaut Volcanics), made using the models in Merdith et al. (2017b). South Australia is fixed in its present-day position with all other blocks rotated relative to it at 788 Ma. SWEAT reconstruction based on Dalziel (1991);Hoffman (1991); Moores (1991). AUSWUS reconstruction based on Karlstrom et al. (1999). AUSMEX reconstruction based on Wingate et al. (2002). Missing Link reconstruction based on Li et al. (1995). NA = North Australia, SA = South Australia.&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Virtual Seminar Series - IGCP 648 Supercontinent Cycles and Global Geodynamics</title>
-      <link>/post/igcp648post/</link>
+      <link>https://shereearmistead.github.io/post/igcp648post/</link>
       <pubDate>Sat, 11 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/post/igcp648post/</guid>
+      <guid>https://shereearmistead.github.io/post/igcp648post/</guid>
       <description>&lt;p&gt;The IGCP 648 (Supercontinent Cycles and Global Geodynamics) is a collaborative project involving researchers from all around the world. I&amp;rsquo;ve been fortunate to be involved in the IGCP 648 group over the past few years and they have supported me to attend conferences and field symposia. In response to the global COVID-19 crisis and the reduced connectivity among colleagues, I have organised a weekly Virtual Seminar Series hosted on zoom for the tectonics/geodynamics community. We hear from a diverse range of scientists researching many aspects relating to plate tectonics and geodynamics. Importantly, we are able to share science with a whole range of people from different parts of the world, many of who would not normally be able to attend in person conferences and seminars.&lt;/p&gt;
 &lt;p&gt;Check out the 
 &lt;a href=&#34;http://geodynamics.curtin.edu.au/igcp-648-virtual-seminar-series&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IGCP 648 Virtual Seminar Series website&lt;/a&gt; for more information and to see past seminar recordings:&lt;/p&gt;

@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Research | Sheree Armistead</title>
-    <link>/research/</link>
-      <atom:link href="/research/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://shereearmistead.github.io/research/</link>
+      <atom:link href="https://shereearmistead.github.io/research/index.xml" rel="self" type="application/rss+xml" />
     <description>Research</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>/images/icon_hu07c7f6abe5f40b880a2343300b756d07_15024_512x512_fill_lanczos_center_3.png</url>
+      <url>https://shereearmistead.github.io/images/icon_hu07c7f6abe5f40b880a2343300b756d07_15024_512x512_fill_lanczos_center_2.png</url>
       <title>Research</title>
-      <link>/research/</link>
+      <link>https://shereearmistead.github.io/research/</link>
     </image>
     
   </channel>
