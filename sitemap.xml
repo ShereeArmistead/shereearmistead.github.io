@@ -18,6 +18,11 @@
   </url>
   
   <url>
+    <loc>https://shereearmistead.github.io/news/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://shereearmistead.github.io/authors/</loc>
   </url>
   
